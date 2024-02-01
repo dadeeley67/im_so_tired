@@ -13,6 +13,10 @@ Learning Rust by copying my favorite budget app.
 
 <!-- more -->
 
+{{ img(path="@/projects/project-1/code.png", alt="Some Rust code from my budget_tool project", caption="main.rs", quality = 100, extended_width_pct=0.2) }}
+
+&nbsp;
+
 ## I want to learn Rust. 
 
 Shocker, I’m sure. Everyone seems to want to learn Rust, if the Internet is to be believed. The success of channels like [No Boilerplate](https://www.youtube.com/@NoBoilerplate), [Code to the Moon](https://www.youtube.com/@codetothemoon), [chris biscardi](https://www.youtube.com/@chrisbiscardi), and [Let’s Get Rusty](https://www.youtube.com/@letsgetrusty), to name a few, is a testament to that fact. Also, the fact that Rust has [made its way into the Linux Kernel](https://www.zdnet.com/article/rust-in-linux-where-we-are-and-where-were-going-next/) is another good sign that it is here to stay, and that it is worth learning about. 
