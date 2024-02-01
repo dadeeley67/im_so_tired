@@ -10,6 +10,8 @@ I guess writing about the miserable things in life is, in fact, what I will be d
 
 <!-- more -->
 
+{{ img(path="/pics/small_town.jpeg", alt="Looking down a street with buildings and cars on both sides.", caption="Photo by Krista Joy Montgomery on Unsplash", quality = 100, extended_width_pct = -1) }}
+
 I guess writing about the miserable things in life is, in fact, what I will be doing from now on. There’s just so much to say, even if it has all been said before by better writers than me.
 
 When you look around the place you call home, how does it make you feel? Are there things that you love? There must be. Every place, however shitty it might be, has *some* redeeming qualities. Maybe they’re small. The food scene sucks, but the bakery makes ***the best*** pasticciotti you can get anywhere near here. Most of the bars are dives filled with angry, dejected boomers who still think they’re going to suddenly become billionaires at the ripe young age of 59 after nearly four decades of working in the Walmart Warehouse and taking out their anger on their families, *buuuuuut* that one bar has the most obscure and delicious assortment of craft beers you’ve ever seen in one place. Whatever that thing/those things are, you should acknowledge them and appreciate them as often as possible. They make life worth living, wherever you’re living it. 

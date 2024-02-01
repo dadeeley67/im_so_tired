@@ -10,6 +10,8 @@ It has been a very long time since I wrote anything.
 
 <!-- more -->
 
+{{ img(path="/pics/writing.jpg", alt="The nib of a fountain pen on paper with cursive on the paper.", caption="Photo by Aaron Burden on Unsplash", quality = 100, extended_width_pct = -1) }}
+
 It has been a very long time since I wrote anything. I've been keeping a physical journal pretty regularly for a few years, but other than that, I have been a barren field, creatively speaking. This makes me sad. I miss writing, creating, feeling, in public. Many people find that idea off-putting, _feeling_ in public. It is a vulnerable position to put yourself in. It feels _good_, though. Really good, in my opinion.
 
 To write creatively means to live creatively, and that is the reason I have been so empty. Being an adult in the 21st century doesn't leave a lot of space for living creatively.
