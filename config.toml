@@ -88,6 +88,7 @@ first_name = "Dave"
 last_name = "Deeley"
 gender = "male"
 username = "imsotired"
+image = "/banner.jpeg"
 
 # Footer social links; full options listed in macros/social.html
 [extra.social]
