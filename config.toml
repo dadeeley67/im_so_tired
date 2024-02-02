@@ -95,7 +95,7 @@ image = "/banner.jpeg"
 email = "dadeeley67@pm.me"
 github = "dadeeley67"
 linkedin = "david-deeley-302690104/"
-twitter = "LiberalMalcont"
+mastodon = "@liberal_malcontent"
 
 # CDN links
 [extra.cdn]
